@@ -65,7 +65,7 @@ const deptBrochure = [
 		idx: "10",
 		dept: "Economic Sciences",
 		url: "https://www.iitk.ac.in/eco/",
-		link: "/assets/Brochures/ECO.pdf"
+		link: "/assets/Brochures25_26/ECO.pdf"
 	},
 	{
 		idx: "11",
@@ -84,6 +84,12 @@ const deptBrochure = [
 		dept: "Industrial & Management Engineering",
 		url: "https://www.iitk.ac.in/ime/",
 		link: "/assets/Brochures25_26/IME.pdf"
+	},
+	{
+		idx: "26",
+		dept: "Management Sciences",
+		url: "https://www.iitk.ac.in/doms",
+		link: "/assets/Brochures25_26/DoMS.pdf"
 	},
 	{
 		idx: "14",
